@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into 'Date Onboarded'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "-MpE1INx8ki1D0Te-dhhLg",
+  "Reference": "WBwoiyrTlkG-hRplK60VUw/-MpE1INx8ki1D0Te-dhhLg",
+  "ParentRef": "WBwoiyrTlkG-hRplK60VUw/YtZn3u3mskCGjkFEa263ow",
+  "Created": "2024-09-05T21:09:35.0418172Z",
+  "Updated": "2024-09-05T21:09:35.0418172Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

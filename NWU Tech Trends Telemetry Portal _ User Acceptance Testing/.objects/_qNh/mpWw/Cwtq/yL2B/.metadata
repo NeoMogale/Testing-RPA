@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Projects'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "yL2Byr18fEukYAfJsWB9Tg",
+  "Reference": "WBwoiyrTlkG-hRplK60VUw/yL2Byr18fEukYAfJsWB9Tg",
+  "ParentRef": "WBwoiyrTlkG-hRplK60VUw/Cwtqhqo9cEu__wB5iXx_Cg",
+  "Created": "2024-09-05T23:39:28.157147Z",
+  "Updated": "2024-09-05T23:39:28.157147Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

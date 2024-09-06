@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1aO5w8gdEEa6EpM-pLDKQw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/create-project" CVScreenId="a5642895-73c2-420c-9550-73f349f90e6c" CvElementArea="289, 570, 77, 41" CvTextArea="302, 582, 50, 15" CvTextArgument="Create" CvType="Button" DesignTimeRectangle="290, 572, 74, 38" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary' /&gt;" Guid="77a29bbf-a42a-4b57-93d0-11b9b0bfea0f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/create-project' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a5642895-73c2-420c-9550-73f349f90e6c" CvElementArea="367, 571, 109, 40" CvTextArea="381, 582, 85, 15" CvTextArgument="Back to List" CvType="Button" DesignTimeRectangle="368, 572, 109, 38" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Back to List' tag='A' type='' class='btn btn-secondary' check:innerText='Back to List' /&gt;" Guid="f6b9243b-cdb6-4b93-80fa-7dd1626d87dd" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="480a55c337d1ebb83d0284372758d2fa.png" xmlns="">0D9YKCqh34kikQu2S_LWd-w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

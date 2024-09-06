@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome techtrendstelemetryportal.azurewebsite",
+  "Type": "Screen",
+  "Id": "Cwtqhqo9cEu__wB5iXx_Cg",
+  "Reference": "WBwoiyrTlkG-hRplK60VUw/Cwtqhqo9cEu__wB5iXx_Cg",
+  "ParentRef": "WBwoiyrTlkG-hRplK60VUw/mpWw-MNVFk6oVoNibLmvLA",
+  "Created": "2024-09-05T23:36:35.9627895Z",
+  "Updated": "2024-09-05T23:36:35.9627895Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

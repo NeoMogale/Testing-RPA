@@ -1,0 +1,50 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "pDataTable&Sequence_1",
+        "cDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "pArgument",
+        "cArgument"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ReadClients.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "cDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_clientDT"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ReadProjects.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "pDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_projectDT"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
