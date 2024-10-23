@@ -1,5 +1,3 @@
-# CMPG324-Project4-35407972
-
 ## Testing & RPA
 
 ![rpa](https://github.com/user-attachments/assets/9b84c615-ae49-47d6-b4ea-2e8f86858a55)
@@ -56,5 +54,4 @@ Each tab displays tables of data with a "Delete" option.
 
 Upon clicking "Delete," the automation removes the entire record and updates the Excel spreadsheet to reflect the deletion status.
 
-### LINK TO PROJECT 4 REFERENCE LIST:
 
